@@ -1,0 +1,85 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K - ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2025
+COMMISSION FILE NUMBER: 001-38492
+
+NOVA DYNAMICS CORP.
+(Exact name of registrant as specified in its charter)
+
+================================================================================
+PART I
+ITEM 1. BUSINESS
+
+Nova Dynamics Corp. ("the Company", "we", "us", or "our") is an enterprise technology provider specializing in next-generation artificial intelligence hardware accelerators, cloud robotics infrastructure, and edge vision systems. During fiscal year 2025, the Company expanded operations across North America, Europe, and Asia-Pacific.
+
+Our core product lines include:
+1. NovaCloud AI Platform: Distributed neural network training and inference fabric serving 4,200+ enterprise customers globally.
+2. EdgeVision Pro: Ultra-low-latency real-time video telemetry processors deployed in industrial manufacturing plants and smart logistics warehouses.
+3. QuantumCore Architecture: Proprietary low-power tensor processing silicon fabricated on advanced 3nm lithography nodes.
+
+ITEM 1A. RISK FACTORS
+
+Our business, financial condition, operating results, and stock price could be materially and adversely affected by any of the following risks:
+
+1. Semiconductor Supply Chain and Foundry Concentration Risk:
+We rely exclusively on third-party semiconductor foundries located primarily in Taiwan and South Korea for manufacturing our proprietary QuantumCore silicon wafers. Any geopolitical tensions, natural disasters, or export control restrictions affecting these regions could halt or substantially reduce our hardware shipments. Lead times for specialized packaging substrates increased from 14 weeks to 26 weeks during fiscal 2025.
+
+2. Rapid Technological Obsolescence and AI R&D Competition:
+The market for enterprise AI acceleration is characterized by intense competition from legacy hyperscalers and agile venture-backed silicon startups. If we fail to sustain our current cadence of generational model optimizations and silicon tape-outs, our market share may erode rapidly.
+
+3. Regulatory Scrutiny and AI Data Privacy Compliance:
+Government authorities in the European Union (under the EU AI Act) and the United States have established comprehensive compliance directives governing algorithmic transparency, bias mitigation, and data sovereignty. Failure to comply may result in regulatory penalties of up to 7% of our annual global revenue.
+
+4. Foreign Currency Exchange Volatility:
+Over 44% of our fiscal 2025 consolidated revenue was generated from customers outside the United States. Fluctuations in foreign exchange rates, notably the Euro and Japanese Yen against the U.S. Dollar, introduced $184 million in adverse currency translation headwinds during the period.
+
+================================================================================
+PART II
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION (MD&A)
+
+Executive Financial Overview:
+Fiscal year 2025 was marked by robust operational acceleration driven by enterprise adoption of our NovaCloud AI infrastructure.
+
+Key Financial Highlights:
+- Total Consolidated Revenue: Reached $24.85 billion in fiscal 2025, representing a 34.2% year-over-year increase compared to $18.52 billion in fiscal 2024.
+- Gross Profit Margin: Expanded to 42.6% from 38.1% in the prior fiscal year, reflecting higher mix of high-margin cloud software licenses and silicon efficiency gains.
+- Research & Development (R&D) Expense: Increased to $3.42 billion, or 13.8% of total revenue, focused heavily on next-generation transformer inference architectures and low-power edge tensor kernels.
+- Operating Income: Surpassed $6.12 billion, up 48.5% year-over-year from $4.12 billion in fiscal 2024.
+- Net Income: Reached $5.28 billion, yielding diluted earnings per share (EPS) of $4.18 compared to $3.02 in the prior fiscal year.
+- Cash, Cash Equivalents, and Marketable Securities: Stood at $8.65 billion as of December 31, 2025, providing substantial liquidity for strategic acquisitions and capital expenditures.
+
+Capital Expenditures and Future Guidance:
+For fiscal 2026, the Company expects capital expenditures between $2.1 billion and $2.5 billion, primarily dedicated to expanding specialized data center capacity in Virginia and Dublin. Full-year revenue growth is projected in the range of 22% to 26%.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions, except per share amounts)
+
+                                          Year Ended Dec 31, 2025   Year Ended Dec 31, 2024
+Revenue:
+  Cloud AI Services & Software                    $15,650                   $11,200
+  Hardware & Edge Processors                       $9,200                    $7,320
+Total Revenue                                     $24,850                   $18,520
+
+Cost of Revenue:
+  Cloud Services Hosting                           $7,840                    $6,110
+  Hardware Production & Packaging                  $6,420                    $5,350
+Total Cost of Revenue                             $14,260                   $11,460
+
+Gross Profit                                      $10,590                    $7,060
+Gross Margin Percentage                             42.6%                     38.1%
+
+Operating Expenses:
+  Research and Development                         $3,420                    $2,650
+  Sales and Marketing                              $1,850                    $1,420
+  General and Administrative                         $800                      $640
+Total Operating Expenses                           $6,070                    $4,710
+
+Operating Income                                   $6,120                    $4,120
+Provision for Income Taxes                           $840                      $610
+Net Income                                         $5,280                    $3,510
+
+Diluted Earnings Per Share                          $4.18                     $3.02
+Weighted Average Shares Outstanding (Diluted)       1,263                     1,162
